@@ -1,1 +1,1 @@
-it contains html files
+it contains css files
